@@ -10,20 +10,20 @@ class Page:
     sentences: list[str]
 
     def __repr__(self):
-        sentence_joiner = '\n    -'
+        sentence_joiner = '\n    - '
         return f"""
 
 Page {self.number}
 
--Text
-    -{sentence_joiner.join(self.sentences)}
--Metadata
-    -Activity summary
-    -Place
-    -Narrator
-    -People present
-    -People mentioned
-    -Other
+- Text
+    - {sentence_joiner.join(self.sentences)}
+- Metadata
+    - Activity summary
+    - Place
+    - Narrator
+    - People present
+    - People mentioned
+    - Other
 
 
 
