@@ -2,12 +2,15 @@
 
 Page 0
 
-- Text
+-Text
     -
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -17,7 +20,7 @@ Page 0
 
 Page 1
 
-- Text
+-Text
     -I sit down alone at the appointed table and take up my pen to give all whom it may concern anexact account of what may happen.
     -Call me nervous, call me fey, if you will ; at least this littlepen, this mottled black and silver Aquarius, with its nib specially tempered to my order inAmsterdam, is greedy.
     -It has not had much work since it flew so nimbly for the dead old man.
@@ -32,10 +35,13 @@ Page 1
     -I hope it’s over some flotsam fish that thebirds are making whaupee.
     -But all the nice gulls love a sailor.
     -Ugh.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -45,7 +51,7 @@ Page 1
 
 Page 2
 
-- Text
+-Text
     -I plunged for the last time.
     -The few remaining figures and letters swam as they came up to me.
     -Then I took them in.
@@ -60,10 +66,13 @@ Page 2
     -Where wasHenry?
     -Ah, he was standing by her, close enough to touch the small buoyant face that toppedher pillared neck most like a bell-flower on its bed.
     -Would he appreciate?
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -73,7 +82,7 @@ Page 2
 
 Page 3
 
-- Text
+-Text
     -At my meeting with Clement yesterday, he had been quite specific : less than twenty thousandyards as average---seventeen thousand six hundred to be exact---full ration of the assassin’swonderful substance, a little act of justice at the end of less than a week, and then the gloriousstuff galore for ever.
     -I felt excellent as I took my second pill.
     -At least I was on my way, for I hadcome upon the major half of a publishing firm ; they had always been very good to me, whatwith Austin Freeman, Oppenheim and Mary Roberts Rinehart.
@@ -84,10 +93,13 @@ Page 3
     -My signs are a rain-proof coat,good shoes.
     -No friend of mine takes his ease in my chair.
     -I have no chair.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -97,7 +109,7 @@ Page 3
 
 Page 4
 
-- Text
+-Text
     -And I really think I would have preferred the Maestro Jimson’s title, now that this piledabomination is actually before me.
     -But the queen can do no wrong.
     -The rain that came heavilyis drying off lightly.
@@ -110,10 +122,13 @@ Page 4
     -If she had said a mashie.
     -But she is so beautiful.
     -Can I suspect her?
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -123,7 +138,7 @@ Page 4
 
 Page 5
 
-- Text
+-Text
     -I hated my eye for being caught by what didn’t concern me : the powerful grip of the new youngman.
     -But it was parading a couple of letters for all to see.
     -Thomas Hardy had been, and mydoctor uncle in the war had been just the reverse.
@@ -135,10 +150,13 @@ Page 5
     -What Hopes?
     -I meant, did one know the family?
     -It wasreally the way he took it for granted that I would rather hear him talking about Cerebos andCerebos and Cerebos or something than attend to poor Henry that irritated me beyondendurance.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -148,7 +166,7 @@ Page 5
 
 Page 6
 
-- Text
+-Text
     -I considered that venerable whose winter Achilles thought to take from the lips of Cressida.
     -Whynot?
     -I set fire to one end of him, gloatingly, and my nerves benefited.
@@ -164,10 +182,13 @@ Page 6
     -Gay used to lie upon her visits.
     -When I was ill, I was put there, with the only danglingbell-wire in all the place, descending behind my head.
     -I used of course to have nightmares ofthe Speckled Band, and awfully scream down the house.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -177,7 +198,7 @@ Page 6
 
 Page 7
 
-- Text
+-Text
     -I had gone to sleep the night before after rereading Typhoon.
     -It had always struck me as aremarkable work.
     -Now was the hour when Charles Victor Hugo Renard-Beinsky had risenuntimely for the sake of the investigating judge.
@@ -189,10 +210,13 @@ Page 7
     -I tried,and felt relieved.
     -Someone had advised me, a few days before, to read Conrad in search of hisYouth, or in Search of a Father, was it?
     -But I had always found Conrad unreadable, as far fromEnglish as the Poles, and did not mean to try again.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -202,7 +226,7 @@ Page 7
 
 Page 8
 
-- Text
+-Text
     -Could I be developing a green-eyed streak?
     -I investigated the body before me with the aid of apowerful glass.
     -At least I always thought of it as powerful, because I never could quiteunderstand how it worked.
@@ -216,10 +240,13 @@ Page 8
     -Then he turned what he was holding a bit ; so that it pushed itsway right through.
     -Then he twiddled the black knobby thing, and Mr. Hall burst in upon us.
     -Theknobby thing was black and red.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -229,7 +256,7 @@ Page 8
 
 Page 9
 
-- Text
+-Text
     -The sound of the bell, as of a boding gnat, just came to me.
     -The finger causing it was, I knew,the index of a most skilful hand, one I had commanded, one that would pluck me fromembarrassment, and yet one I vaguely distrusted.
     -Really, if the lower orders don’t set us a goodexample, what on earth is the use of them?
@@ -239,10 +266,13 @@ Page 9
     -The bell again, and then a far sensation of feet.
     -I was glad the man had come ; time wasnot unlimited.
     -I remembered that, when I was returning after a fortnight’s absence during whichmy assistant Charles Day had deputised for me in my lectures on mineralogy at PeeblesUniversity, a tactless hand had left on the blackboard : “Let us work while it is yet Day ; for theKnight cometh when no man can work.”
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -252,7 +282,7 @@ Page 9
 
 Page 10
 
-- Text
+-Text
     -Then came Hyacinth’s day.
     -He laughed when he remembered that, as we were walking roundthe garden, and said it was too late for Jasmine’s day at any rate.
     -I liked to hear him laugh, andthought it was absurd for him to be called after what the man Boots didn’t understand.
@@ -263,10 +293,13 @@ Page 10
     -She drooped long seed pearl things right over the soup.
     -Ear-drops, as my mother had called them, I never could abide ; probably because I belonged tothe other side of the family.
     -My mistress wore them ; was it for that that I had begun to tire of heralready?
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -276,7 +309,7 @@ Page 10
 
 Page 11
 
-- Text
+-Text
     -If Henry had been there he could have told me what to do.
     -His great voice, tuned and broken atthe capstan bar, would have breezily put me right.
     -Tears came to my eyes.
@@ -287,10 +320,13 @@ Page 11
     -After all the Grundy Sapphicof yesterday had described a more universal taking off in Ireland.
     -I did not quite agree with deQuincey that murders in Ireland did not count.
     -But perhaps it was an optimistic memory whichtold me that such things used not to happen when the queer old Dean was alive.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -300,7 +336,7 @@ Page 11
 
 Page 12
 
-- Text
+-Text
     -I rubbed my eyes and massaged my temples with pronated finger-tips.
     -Then I fumbled twoaspirin tablets into my mouth : Noel Coward’s King Charles’s Head.
     -I had a very bad head.
@@ -313,10 +349,13 @@ Page 12
     -Yetthe keen eyes bent like small topaz searchlights over the writing.
     -I would get, I felt, what Iwanted from this man.
     -But then I suddenly remembered the words of the poet :       The golden one is gone from the banquets,       She, beloved of Atimetus,
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -326,7 +365,7 @@ Page 12
 
 Page 13
 
-- Text
+-Text
     -Rintrah, where has thou hid thy bride?
     -Weeps she in desert shades?
     -Alas!
@@ -344,10 +383,13 @@ Page 13
     -But that was oflittle use to me.
     -On the whole, I thought I would have as much nerve as my dear hero.
     -But onenever knew.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -357,7 +399,7 @@ Page 13
 
 Page 14
 
-- Text
+-Text
     -My ears were becoming attuned, and for the first time I heard clearly what the woman wassaying : “Are you going to leave everything to me?” she asked, and I could have sworn hercompanion started.
     -Then seeing, or thinking he saw, his mistake, he answered : “You must dojust as you think fit, May.” After all it was none of my business.
     -Some fragments of dejectedflesh still lay among the rests of the spilled wine.
@@ -366,10 +408,13 @@ Page 14
     -And I too thought.
     -The voice was like and yet notlike that of Janetta Sheringham.
     -How we had laughed that day in the hay field when John sat onthe buttered rolls, and we devised games out of straws, and we thought the cricket a war-horse,barded and chaufroned too, real fairy, with wings all right.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -379,7 +424,7 @@ Page 14
 
 Page 15
 
-- Text
+-Text
     -Now, I considered, in my dear Lyons it would be coming of age hours, and I wondered if theywould ever do that over here.
     -I fancied what self-consciousness and preciosity there would be,for instance, if the B.B.C.
     -ever took it up.
@@ -390,10 +435,13 @@ Page 15
     -Alexander, the only noteworthy Pope of my native land, was demonstrably affected.
     -And mynamesake wrote a letter, in which he said that Sarah’s left eye was injured, and there appeareda black spot on her breast.
     -Her lover was all over black ; but not the least sign of life was foundin either.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -403,7 +451,7 @@ Page 15
 
 Page 16
 
-- Text
+-Text
     -One’s eyebrows were one’s own, I always thought.
     -Though I did remember a case---AuntMary’s, to be precise---when it was not so.
     -She had met him after the explosion, of course ; andwhen it became a question of dinner and the Highgate Empire, actually with performingquaggas, she put herself in the hands of the man who made up for, if anything could make upfor, the Russian ballet.
@@ -415,10 +463,13 @@ Page 16
     -Should I make an effort and goback to Henry?
     -He was ready to love.
     -That at least was obvious.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -428,7 +479,7 @@ Page 16
 
 Page 17
 
-- Text
+-Text
     -I am conveniently situated, with the Moon on the one hand and the Dawn on the other.
     -Conveniently situated for some things, that is.
     -Here’s young Sawnie, for instance, parking hisFordor with a perfectly grey face.
@@ -450,10 +501,13 @@ Page 17
     -She is very beautiful.
     -Why should I thinkher beauty somewhat sinister?
     -Because, perhaps, marriage is in the air?
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -463,7 +517,7 @@ Page 17
 
 Page 18
 
-- Text
+-Text
     -I discussed certain passages with the man, and he was too guardedly ignorant in hiscontributions to our discussion.
     -The chapter on the fall of the rupee you may omit.
     -It issomewhat too sensational.
@@ -476,10 +530,13 @@ Page 18
     -I have never met any really wicked person before.
     -I feel rather frightened.
     -I am so afraidhe will look just like every one else.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -489,7 +546,7 @@ Page 18
 
 Page 19
 
-- Text
+-Text
     -Yesterday he got in another of his own kind, who agreed she’d done it all herself.
     -He twiddledthe polished knob and Mr. Hall came into the room again.
     -I heard him muttering that it wasappropriate the Human Comedy couldn’t possibly have gone on beyond to-day.
@@ -501,10 +558,13 @@ Page 19
     -He pulled my ears, and said it was Wotton, which I didn’t think it was, and that shehad only just come to Falkland.
     -I made a low noise and at once knew I had done the wrongthing.
     -Usually he just said William Sydney Porter, which I offended ; but then he said somethingmuch worse.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -514,7 +574,7 @@ Page 19
 
 Page 20
 
-- Text
+-Text
     -The best I had done seemed to me blank and suspicious, my great thoughts as I supposedthem, were they not in reality meagre?
     -Next day I would have to pay for all I had had of solace,and for all I would have later.
     -It would, I thought, have seemed impossible to link Will’s friendBen with Will’s wife, and yet they went off together, or at least on that same day : the bricklayerout of Annandale and the inheritor of the second-best bed : strange bedfellows.
@@ -523,10 +583,13 @@ Page 20
     -That all happened by the Mole, and there was the oldest brass in England, saying : SIRE :IOHAN : DAUBERNOUN : CHIVALER : GIST : ICY : DEV : DE : SA : ALME : EYT : MERCY.
     -Good enough.
     -We have circled and circled till we have arrived home again, we two.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -536,7 +599,7 @@ Page 20
 
 Page 21
 
-- Text
+-Text
     -To reckon with Henry!
     -That was never easy.
     -Just beyond the laurels, I turned sharply and therehe was, bending over the body of his latest victim.
@@ -551,10 +614,13 @@ Page 21
     -He pottered about with me and succeeded at last in making friends withHenry.
     -Already he felt that I was leading him to the fountain Ponce de Leon sought, where hewho drinks is deathless.
     -And he was not so far wrong.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -564,7 +630,7 @@ Page 21
 
 Page 22
 
-- Text
+-Text
     -He always talked to me about murder, when we were alone together.
     -And that day he told me itwas the birthday of a good one in prison.
     -John and Cornelius, the Dort people ; I can’t say Iunderstood very much.
@@ -579,10 +645,13 @@ Page 22
     -It might be so.
     -Explain it how you will,when I first set eyes on her I felt no vibration, no hint at all, of my latter end.
     -I was banished andslept miserably with Flora.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -592,7 +661,7 @@ Page 22
 
 Page 23
 
-- Text
+-Text
     -I hate seeing things like this in the paper.
     -Bill to Solve the Traffic Problem.
     -Bill to improve theSecondary Schools.
@@ -614,10 +683,13 @@ Page 23
     -Thethought of that evening in the Left Luggage Office parches me, makes my heart beat differently.
     -I must say I envy Alexander having his first, and perhaps his second, in there.
     -I think wistfully ofthe poet’s lines:       But rum alone’s the tipple, and the heart’s delight
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -627,7 +699,7 @@ Page 23
 
 Page 24
 
-- Text
+-Text
     -Of Cathleen, the daughter of Houlihan.
     -Next day I saw that my suspicions of Caroline had been well-founded.
     -This was an infernalnuisance ; a Chinese confrère of mine might even have called it a hellebore.
@@ -639,10 +711,13 @@ Page 24
     -To shareit with Giulio de Medici might sound more sinister to the uninstructed.
     -At least the quality ofmercy was little exerted, much less strained, in me.
     -Roses automatically reminded me of myaunt Cynthia who had, before there was any constraint between them, asked the poor oldAhkoond of Swat to share a dream next with her heart among these decorative but vestigialflowers.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -652,7 +727,7 @@ Page 24
 
 Page 25
 
-- Text
+-Text
     -After I might just as easily have been a literary bloke, like Jeremy Taylor or Eugene Sue.
     -I toldmyself that all art was one.
     -There might be superficial differences in their work, but they had, inthe words of the old song, gone the same way home.
@@ -669,10 +744,13 @@ Page 25
     -What was a did little?
     -Didling, perhaps, or didlet.
     -It was at the former that Iwoke to consciousness that morning.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -682,7 +760,7 @@ Page 25
 
 Page 26
 
-- Text
+-Text
     -The girl had left Henry by this time, thank God.
     -She was an obvious whey-face.
     -She didn’t seemcapable for a moment of understanding those first two killings of his.
@@ -702,10 +780,13 @@ Page 26
     -I supposed it would be different tosuddenly develop a wen for someone.
     -Different and messier.
     -He asked me about Ben Wade,hitherto merely mutely unemployed, and of course I said the right thing.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -715,7 +796,7 @@ Page 26
 
 Page 27
 
-- Text
+-Text
     -I had seen, day after day, every sunlit or night obscured detail of the funny old house I hadvisited so many years ago.
     -Through it, handsome, cadaverous and so quiet, had walked Deathhimself, tapping unnoticed at the very walls of the mansions of life ; trying here, failing there,lightly fingering for the sign of a breach.
     -A tiny opening.
@@ -725,10 +806,13 @@ Page 27
     -To think of the tiny Clemmixed up, nay, a prime mover, in such affairs.
     -Useful, courteous little chip of a bat.
     -He hadhushed my brat for me when he was only six, one morning on which I had wanted to go out for awalk.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -738,7 +822,7 @@ Page 27
 
 Page 28
 
-- Text
+-Text
     -I found myself by that one of the windows which overlooked the stone broach spire---a rarity inKent---of Pluckley church, and the light would strike my book from over my right shoulder.
     -I drewa volume from my pocket ; blind-tooled on the green in a double circle was a single star abovewhat was perhaps a sea.
     -I have had very little experience of it myself up to the present.
@@ -752,10 +836,13 @@ Page 28
     -Iwas in for a ticklish business, and I knew it.
     -Forging ahead, I supposed they would call it, sincethe woman was not yet dead.
     -You might not hear of her again.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -765,7 +852,7 @@ Page 28
 
 Page 29
 
-- Text
+-Text
     -It had always been my habit to rise with the lark, if there was one going up at about nine.
     -Aconfirmed botulist, I first arranged with Flora that there should be seven of the long stout shapesrosily bursting from the exquisite, taut but not too elastic brown at breakfast.
     -I trusted they wouldnot taste of Flora and the country-green.
@@ -775,10 +862,13 @@ Page 29
     -I led the oldmineralogist up the garden, if I may be permitted the expression, and introduced him to mylobelia and to my pretty lords and ladies.
     -I wanted to see how the combination would suit him.
     -Ifelt I ought to be drawing towards a close ; but one never knew.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -788,7 +878,7 @@ Page 29
 
 Page 30
 
-- Text
+-Text
     -I see that old dandy has purchased Cape Jasmine.
     -Your gardenia is difficult at a distance todetermine.
     -It may be florida flore-pleno, double white.
@@ -810,10 +900,13 @@ Page 30
     -Excellent, mydear Watson.
     -But the leopard’s eyes do not bat a blink.
     -Can she be guilty?
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -823,7 +916,7 @@ Page 30
 
 Page 31
 
-- Text
+-Text
     -The others did not seem similarly impressed.
     -Phrases of this and that came to half my ear, duetby rill and corncrake.
     -Rill vaunted the pleasure of speeding, and corncrake gave warnings likean over-driven oak about to fall.
@@ -840,10 +933,13 @@ Page 31
     -Thisnomenclature business had often bothered me.
     -Sometimes I felt sudden enough, as if my headwould burst sometimes but triturative.
     -Was I a bomb, or only slow and godly and exceedingsmall?
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -853,7 +949,7 @@ Page 31
 
 Page 32
 
-- Text
+-Text
     -I was a little consoled for the weeping weather by the fact that Gainsborough had gone outto-day.
     -And, now I came to think of it, Henry had also gone to-day ; poor Henry, who had stayeduncomfortably after his meeting with Clément yesterday.
     -Henceforth I ask not good fortune, Imyself am good fortune, I changed.
@@ -867,10 +963,13 @@ Page 32
     -All I wanted beside, I had thought.
     -Hadn’t Chesterton said somethingabout it’s being hemp at both ends?
     -My job might prove him right.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -880,7 +979,7 @@ Page 32
 
 Page 33
 
-- Text
+-Text
     -He was picking round among all she had left behind and found a box with his name on it.
     -Also itsaid, for he read it, I always pay my debts.
     -Unwrapped, it seemed to be a hundred box ofGourdoulis.
@@ -894,10 +993,13 @@ Page 33
     -I had never seen him so moved.
     -There were little bits of stuff like blackpineapple on the carpet.
     -I knew he could never be his old collected self again, and that my grayhairs would go down in sorrow to the grave.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -907,7 +1009,7 @@ Page 33
 
 Page 34
 
-- Text
+-Text
     -It was a petty employ for one of my reputation ; you would not hear, I felt, much more of it.
     -Ihope you have not been leading a double life, pretending to be wicked and being really good allthe time.
     -That would be hypocrisy.
@@ -922,10 +1024,13 @@ Page 34
     -Now with a leer, he emittedsounds through this quag which shaped themselves into hints at some perpetual reward forvaluable services rendered.
     -But even then I had not made up my mind.
     -It was, I said to myself,a bad workman who could not play one tool against another.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -935,7 +1040,7 @@ Page 34
 
 Page 35
 
-- Text
+-Text
     -For this time being, Henry was drawing towards a close.
     -I was not sorry.
     -The police were afterhim in no uncertain manner, and it seemed impossible for him to ultimately escape them.
@@ -948,10 +1053,13 @@ Page 35
     -Ifhe who so tragically killed his King, ever reached here at all, which is historically more thandoubtful (alas, poor Richard!
     -Alas, poor Thomas!)
     -it was certainly not in such ease or such goodtime as I. I collected myself and mine, and went out to sniff the new air.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -961,7 +1069,7 @@ Page 35
 
 Page 36
 
-- Text
+-Text
     -Strange that old Calabar, as I called him, should fail me ; yet on the morning after I hadintroduced him to the person most concerned, I felt certain that I could not rely on him.
     -I feltcertain that I could not rely on him.
     -I would give him another day, and then. . . .
@@ -973,10 +1081,13 @@ Page 36
     -I remembered, as I wandered among the abortiveBengal attempts of the rhododendrons, that she whose bidding I then did would always makeup.
     -Henry was always made up too.
     -He had buried the corpse ; only the eyes showed.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -986,7 +1097,7 @@ Page 36
 
 Page 37
 
-- Text
+-Text
     -Death’s clumsy fingered, that was the really frightful thing : I had seen them, beneath a debonairsmile, fumbling so long about their business.
     -I realised that I would have to do something.
     -Thistime, of course, the male incarcerated at the place of Hotspur’s death could not hear.
@@ -995,10 +1106,13 @@ Page 37
     -Well, my parents had seen to it, soon after birth, that Ishould be one ; but I had never, save during that week in Malta when I met Ronald Firbank andwas a trifle jaundiced, been the other.
     -It was terrible to sit there with only the table in front of me,and to know that murder had been committed.
     -He would---I had sensed that---be intrinsicatedand concealed, chamber within chamber ; if I durst open the bores, who would believe me?
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1008,7 +1122,7 @@ Page 37
 
 Page 38
 
-- Text
+-Text
     -I was feeling better already, and was glad that a memory, true though dim, had led me to theplace.
     -Video meliora proboque ; but I could not, for all my covert glances, see the modelling ofthe fossettes of the elbows of the woman sitting so near me.
     -Were they, I wondered, like SoniaGordon’s, triangular dimples with shadow in them?
@@ -1020,10 +1134,13 @@ Page 38
     -“You would get off with a whole skin, would you?” Icried softly, as I stabbed once.
     -And even as I did so, I thought of skinny old Marat in his slipperbath, the nightcap about his forehead, the dim light of the candle, the shadow at the door, thestealthy tread of Charlotte Brontë with the undulled blade.
     -There was something wrong.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1033,7 +1150,7 @@ Page 38
 
 Page 39
 
-- Text
+-Text
     -She said it didn’t matter what they had done, because she was still an M.D., and she’d gotanother one.
     -That was he.
     -She showed us some delicate undercoats, all raw liver colour, verylovely, and proved it.
@@ -1047,10 +1164,13 @@ Page 39
     -I didn’t care.
     -But I heard them say they weretwo all for that year ; she said one of his was vicarious and I could not understand what the vicarhad to do with it.
     -They made a bet.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1060,7 +1180,7 @@ Page 39
 
 Page 40
 
-- Text
+-Text
     -What chemistry!
     -That the winds are really not infectious.
     -Now that I was approaching journey’send, I began to ask myself disconcerting questions.
@@ -1079,10 +1199,13 @@ Page 40
     -Out of its little hill faithfully rise the potato’s dark green leaves.
     -Thames Ditton’s sister, asEric Parker calls her---and one remembered the Irishman’s malapropism in the same tale---hadsoon passed.
     -Long she was ; but I did not linger to pay court to her.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1092,7 +1215,7 @@ Page 40
 
 Page 41
 
-- Text
+-Text
     -And then with horrid clearness I had seen a woman---not actually, if I could trust myself, there ;but aiming, directing, inspiring : slim, tawny, petulant, self-willed : wanton, but too calculated tobe more than mistress of herself ; the kind that had made England terribly at sea.
     -I looked backon my own youth ; I had been about a bit, as they say ; sometimes, to catch a whale, I had casta sprat over the windmill.
     -But it was not till my marriage with Henry that old Charles Goodfellowdared to hint that I was going gay.
@@ -1101,10 +1224,13 @@ Page 41
     -Just as I could not help realising that, had I amind to go there, I could now get moled and isled on the Selfridget side, though by no means inBond Street.
     -When I said means, I meant of course lawful ones.
     -Then I remembered Henry’sfavourite quotation :       But M’Cullough ‘e wanted cabins with marble              and maple and all       And Brussels an’ Utrecht velvet, and bath and a              Social Hall
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1114,7 +1240,7 @@ Page 41
 
 Page 42
 
-- Text
+-Text
     -Just broken to twine round they harp-strings, as if              no wild beat       Were now raging to torture the desert!
     -Then I,              as was meet…I assure you I had not seen her enter but suddenly I was electrically aware that she was sittingnear me.
     -What could come next?
@@ -1127,10 +1253,13 @@ Page 42
     -Her voice purred in my quick ears ; I thought of a jaguar on a leanbough, and envied Henry.
     -The surface was clear brown, and I discerned white figures within ;stars, and a little heart, mirabile dictu, were moving inside.
     -She lit a cigarette and poured downcocktail after cocktail ; sometimes she made little dabbings with a butterfly of white lace to hermouth.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1140,7 +1269,7 @@ Page 42
 
 Page 43
 
-- Text
+-Text
     -This is good.
     -She accepts Lover’s Delight from me.
     -She has spoken very little ; but she urgesme to make trial of a Banana Split.
@@ -1157,10 +1286,13 @@ Page 43
     -Where would my incomebe if Aquarius were to turn Gemini?
     -She tells me a lot, each word huskily lisping over that roundpetulant vermilion lower lip, of a doctor friend of hers.
     -I have only known her a few minutes ; butI hate to think she would change---her voice hits a pocket, just like a plane, when she talks ofhim---an honest station between King’s Cross and Edinburgh for---what is it?---being’s dronepipe, whose nostril turns to blight the strivelled stars and thicks the lusty breathing of the sun.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1170,7 +1302,7 @@ Page 43
 
 Page 44
 
-- Text
+-Text
     -I sometimes wish, and I wished then, that I had the gift of telling, or at least of following, a storyvividly.
     -Hodge, in the luxury of his first St. Bruno, kept on exacerbating the corner of my eye byfingering his sebaceous arrangement.
     -And this made it difficult to adequately appreciate Henry’sproblem.
@@ -1181,10 +1313,13 @@ Page 44
     -What would he do?
     -We couldn’tstop at this point, surely, I thought.
     -But I was wrong.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1194,7 +1329,7 @@ Page 44
 
 Page 45
 
-- Text
+-Text
     -It was when that half Pole, half Frenchman, and usually up the first half, that self-styled drunkenmongrel and lazy waster, got normally out of bed.
     -I remembered that when Hélène told him ofher attachment he gave up brandy.
     -And took to absinthe.
@@ -1206,10 +1341,13 @@ Page 45
     -The girl was no longer there.
     -I stayed myself with devilled Epicam andRoyans aux Achard, levered into me with Peter Barleys and washed down and out, foul thought,with Villacabras.
     -But one was so helpless alone in a great building of many flats : I was glad Ihad not given up stealing at the doors.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1219,7 +1357,7 @@ Page 45
 
 Page 46
 
-- Text
+-Text
     -In one way, of course, I was glad they were married.
     -I had always been rather a stickler forpurity in family life.
     -That scandalous rumour of a Maltese landing on our island and seducing anancestress of mine---or was it an ancestor?---from the path of duty, I never had and never wouldbelieve.
@@ -1227,10 +1365,13 @@ Page 46
     -It was she that did it.
     -But he was pleased in away, and said to her, out of a book, the original ground of the transaction appears to have beensentimental : “He was my friend,” says the murderous doctor ; “he was dear to me.” Some Tom,not the one I killed in the matter of Jasmine, had done that, I gathered.
     -He was enthusiastic andprovided a chop for me, and said it was good he had visited England to-day for the first time.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1240,7 +1381,7 @@ Page 46
 
 Page 47
 
-- Text
+-Text
     -Babs now moves across the vision, crowned with two straight downfalls, as it were, of copperupon her head.
     -The uncurling flow is to right and left, as if a river, reflecting a thunder sunset,had split in terror into twin cataracts.
     -And here, thank heaven, come the first, much needed rainof the week.
@@ -1250,10 +1391,13 @@ Page 47
     -But, looking across at the figure opposite me, I realise that it is actually she and notBabs that has got me.
     -Got me, that is a terrible conjunction of two little words ; Henry does notlike it at all.
     -But as a proof that what I say is true, she is strong enough to wean me from mythoughts of Orange Pekoe to a Special Orange Supreme.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1263,7 +1407,7 @@ Page 47
 
 Page 48
 
-- Text
+-Text
     -I had always thought that Tate essentially meant sugar.
     -This I liked almost next to anything,though mostly not at once, but under the gas fire and pulled out when there was nobody else.
     -But he said to her, as in the game a lot of them played there once, another had begun to-day,and had wormed his way into the Book of Common Prayer.
@@ -1276,10 +1420,13 @@ Page 48
     -But I liked the real way to call her best.
     -I met Ecky that evening,he was very happy ; but just about all in.
     -When I greeted him he nearly fell on my nose.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1289,7 +1436,7 @@ Page 48
 
 Page 49
 
-- Text
+-Text
     -I always feel a bit dazed on these occasions, and was so then.
     -But it was pleasant to collectoneself, and count one’s burdens---above and beneath, and to one’s hand as it were.
     -I did so.
@@ -1301,10 +1448,13 @@ Page 49
     -Also he was doomedto destroy, for family reasons, and to keep on destroying.
     -And I was still alone ; I could hardlyexpect otherwise in the circumstances.
     -I echoed the words of the poet :       Bring Palamabron, horned priest, skipping upon              the mountains,       And silent Elynittria, the silver-bowed queen,
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1314,7 +1464,7 @@ Page 49
 
 Page 50
 
-- Text
+-Text
     -The swallow, the bright Homonoea.
     -I wondered if I should succeed in hurting the girl.
     -But think of her no more.
@@ -1327,10 +1477,13 @@ Page 50
     -The fellow seemedabsorbed.
     -It is a marvellous gift, I always think.
     -He could undoubtedly have written, if he’d had amind, like a Chesterton or a Camoens.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1340,7 +1493,7 @@ Page 50
 
 Page 51
 
-- Text
+-Text
     -As I was not staying, but only passing through, I raised my hat to the eleven that played AllEngland for a thousand guineas, and beat them twenty-nine times in ten years.
     -I paid respectalso to a couple of exceptionally large yets.
     -After all, I was doing another man’s work for him.
@@ -1355,10 +1508,13 @@ Page 51
     -Each beat, I saw, puffed out of mybreast like purple smoke from an exhaust.
     -I dance with the dancers and drink with the drinkers.
     -The echoes ring with our indecent calls, I pick out some low person for my dearest friend.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1368,7 +1524,7 @@ Page 51
 
 Page 52
 
-- Text
+-Text
     -The cardinal was acquitted to-day of all complicity in the affair of the Queen’s diamondnecklace.
     -How quickly the quicksands of crime got hold of the mind’s feet.
     -At that moment itseemed incredible that I had ever been an innocent child, gambolling among the daisies, andthinking, if I thought of it at all, that the grave would be as little as my bed.
@@ -1379,10 +1535,13 @@ Page 52
     -Why cucumber sandwiches?
     -Why such reckless extravagance in one so young?
     -Yes,I felt, at my first sight of him, that the words before my eyes would form some sort ofcommentary, ironic perhaps, page after page, till the end of my interview, and even after.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1392,7 +1551,7 @@ Page 52
 
 Page 53
 
-- Text
+-Text
     -So far the mind had been ambling, if I may dare the expression ; moving forward ungainly, as ifby one hemisphere at a time.
     -But now I keenly wondered how we should agree, myself and thiswell-fed swine that had just been introduced to me.
     -He was obviously in drink, and none theworse for that : the better indeed for my purpose.
@@ -1401,10 +1560,13 @@ Page 53
     -It should have been recognisable a mile off, from weeklyreminders in the more ecstatic newspapers, as that of Sir Paul Trinder, whose furor loquendihad cause him for twenty years to adhere loudly to every ebbing cause in town.
     -He was also, if Imistook not, some sort of chartered lecturer at obscure seats, one might almost call them stools,of learning.
     -Such a man, it might be argued, was no one’s enemy but his own ; but, oh, what abitter enmity that could be.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1414,7 +1576,7 @@ Page 53
 
 Page 54
 
-- Text
+-Text
     -I was feeling about as good as man could feel that day.
     -Everything horticultural, in the awful andliteral sense of the word, was lovely.
     -Green blood, as I considered before breakfast, I delightedto conserve.
@@ -1426,10 +1588,13 @@ Page 54
     -It would have to be scanned.
     -Poor old man ; but everyone must bump upagainst his Waterloo, and to-day was the day of the meeting at La Belle Alliance.
     -It was notappropriate.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1439,7 +1604,7 @@ Page 54
 
 Page 55
 
-- Text
+-Text
     -The picture of the Old Mill at Bramley, with its medlar tree overhanging the water, its octagonalbrick dovecot, and its sweet water grape vine, had not detained me the day before.
     -I had gropedfor my first cigarette of the day, eyes hardly open, a few miles on.
     -So easily were thingsforgotten!
@@ -1448,10 +1613,13 @@ Page 55
     -But the whole thing was not clear to me, and I doubted if it was to anyone.
     -The two smells, of the medlar and the vine, had been the two notes of a chord, venetian red andperidot, that bit one ear gently and the other hard---or did I mean loud and tenuous?---amonotone save for this variation : once it had been hard, gentle, hard, hard, gentle, gentle,gentle hard.
     -It had been a pretty smell.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1461,7 +1629,7 @@ Page 55
 
 Page 56
 
-- Text
+-Text
     -It was just when the girl from the Asolo silk mills contended that morning was.
     -There wassomething, I reflected, about the fashion, beastly, in the awful and literal sense of the word, as ofequals, in which youth treated the young day.
     -Heaven knew I would have been in bed, had notmy head been surcharged with too perilous a stuff for sleep.
@@ -1472,10 +1640,13 @@ Page 56
     -Gradually a realisation came to me that I wouldrevisualise more connectedly on an assuaged stomach.
     -I hoped for breakfast soon, nor was I tobe disappointed.
     -There was that silly girl of mine bursting into pang in the sausage, just likePippa, as she always did.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1485,7 +1656,7 @@ Page 56
 
 Page 57
 
-- Text
+-Text
     -It seemed from what I heard that Felton’s meat had been delivered at Brookesley for the firsttime that day.
     -I wondered if it was good and plentiful.
     -Not that I really liked to think about meat,though we were alone again.
@@ -1495,10 +1666,13 @@ Page 57
     -It seemed a pity to me ; so unnecessary, just then.
     -I knew nothingat all about boats.
     -Some of my people had known the old Armadale Castle well enough,doubtless ; but that wasn’t the boat that went to South Africa.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1508,7 +1682,7 @@ Page 57
 
 Page 58
 
-- Text
+-Text
     -Considering it was my name month, I wasn’t having too much luck.
     -Henry, though a bit on thespectacular side---to fly the viscera of his third, of the old family lawyer, at his small flagstaff, alittle argued the exhibitionist---was sane enough.
     -And this stranger, to judge by the over-vagueconversation he began to force on me---different in this from the agriculturist, who had beenutterly silent save for the burning question, and the brats who had only uttered mutually---wasdistinctly nuts.
@@ -1520,10 +1694,13 @@ Page 58
     -(Was it InspectorBarraclough, or only some stolid-witted local?)
     -But little the latter cared.
     -He went on talkingabout Browning.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1533,7 +1710,7 @@ Page 58
 
 Page 59
 
-- Text
+-Text
     -What was it I held in my fingers?
     -Looked at in one way it could just be a kea.
     -I would give thebird a phoenix chance.
@@ -1548,10 +1725,13 @@ Page 59
     -They are, to that extent, acute.
     -Still itwas awkward with Trinder about.
     -It pleasured me, however, I must confess, to think that I was ina position, though the opportunity was unlikely, to entertain divine Xenocrate with an account ofit all.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1561,7 +1741,7 @@ Page 59
 
 Page 60
 
-- Text
+-Text
     -I had sufficient knowledge to realise that I had succeeded.
     -I ordered Charles to spare noexpense in confecting that Sundae known as Lover’s Delight for my companion.
     -I believed inletting a man have a bit in.
@@ -1575,10 +1755,13 @@ Page 60
     -I gave the huddle farewell, and forbade Henry, my peerlessinvestigator, to pursue the matter further.
     -I climbed down from the short flight of folding stepsupon which I had secured my inevitable heliographic record of success.
     -No more by thee mysteps shall be for ever and for ever.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1588,7 +1771,7 @@ Page 60
 
 Page 61
 
-- Text
+-Text
     -I had always been proud of my namesake, the Great Lexicographer, as we, not unnaturally,called him in the family.
     -But I wondered if part of my life would not rather horribly reverse his.
     -After all he had been born at Colney Hatch.
@@ -1599,10 +1782,13 @@ Page 61
     -DoctorInvincibilis, dear old Bill, he was no mean psychologist ; he had a razor.
     -There I saw a hen andtwo sheep.
     -It was a pity about Dickens’ insane jealousy of chickens, and one could really almostweep at his morbid mistrust of sheep.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1612,7 +1798,7 @@ Page 61
 
 Page 62
 
-- Text
+-Text
     -What should such a man need with such a companion, I asked myself.
     -And then I thought ofJim’s uncle, Darius Brockley, and of the flimsy excuse the Vicar’s niece had given when shereturned.
     -Yes, I began to understand.
@@ -1622,10 +1808,13 @@ Page 62
     -Why, I meant, should I have remembered the tale of the Major-General in TrafalgarSquare on Guy Fawkes night, and how the dead man had told it me, just an hour before...theycame to take him away?
     -And then how about myself?
     -Admittedly I was a warrior, but even I,surely, could be a warrior without being a bounder.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1635,7 +1824,7 @@ Page 62
 
 Page 63
 
-- Text
+-Text
     -I cannot help, even with this supreme distraction, thinking of my Babbie’s---dare I say myBabbie’s---hair as I last saw it, tiger-coloured, and all like the little springs of a fairy’s sofa.
     -Otoison, moutonnant jusque sur l’encolure!
     -O boucles!
@@ -1652,10 +1841,13 @@ Page 63
     -She explains, and her throatdimples, that she will take it because Lent is over.
     -She never, she adds, will have a secondSundae in Lent.
     -I must be besotted, for I think this amusing.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1665,7 +1857,7 @@ Page 63
 
 Page 64
 
-- Text
+-Text
     -Needless to say I didn’t know that that was the last day.
     -Afterwards I found it terrible to lookback, and realise that I hadn’t made the most of it, or rather of all the little things that went tocompose it, and the thousands that had gone before.
     -I heard him read two things about a manand say that he had put in his appearance to-day.
@@ -1677,10 +1869,13 @@ Page 64
     -But until he told me about it to-day, I never knew that the Great Lexicographer hadtasted Lotus with him.
     -There was that in me which needed the exercise of fealty.
     -To give all---asI had given all to him---was very bone of my bone.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1690,7 +1885,7 @@ Page 64
 
 Page 65
 
-- Text
+-Text
     -I started to read Hardy’s exquisite production, and every muscle of my brain was enthralled untilI came to the end.
     -Just such another must have been the Monk Arnulphus when he uncorkedhis ink.
     -His palette gleamed with a burnished green as bright as a dragon-fly’s skin : hisgold-leaf shone like the robe of a queen.
@@ -1708,10 +1903,13 @@ Page 65
     -I knew I should like to.
     -His was obviously a slowmethodical brain, used to pigeon-holing by type.
     -In that case, I thought I knew the type : learnedin a macabre way, even distinguished.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1721,7 +1919,7 @@ Page 65
 
 Page 66
 
-- Text
+-Text
     -It was neither the sheerest hell nor uttermost heaven thus to affront the dead ; it was rather,surely, joy’s crown of sorrow, or sorrow’s crown of joy.
     -Could it be thought morbid of me, Iwondered, to sentimentalise a little as I sat and faced the old school colours frozen there beforeme?
     -Green and white and rose, grit, wisdom and reliability, the find old Head, as we called him,had quipped it.
@@ -1733,10 +1931,13 @@ Page 66
     -But I might lose all if I speculated.
     -Iattacked the viridescence in front of me, and fed my brain on cleaner things.
     -I remembered theplace of my initiation into so much that was glowing and splendid ; I remembered the clangingfives courts, and the solemn old Hall, hung round with
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1746,7 +1947,7 @@ Page 66
 
 Page 67
 
-- Text
+-Text
     -the darker works of Beardsley and Felicien Rops, and ringing with the gloat curses of the Head,as we called him, lubriciously gasping in the grip of ether.
     -I took the first blink of the light at theplace of the Whympers.
     -Mrs. Allingham painted the fishshop, I remembered, and the author ofthe Land of Mist played cricket for it till he went up the hill.
@@ -1759,10 +1960,13 @@ Page 67
     -Canvas-backed clams and the prejudicial Menkin?
     -The balance was toohard to strike.
     -In the end I carried on as usual.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1772,7 +1976,7 @@ Page 67
 
 Page 68
 
-- Text
+-Text
     -Out cascaded the darling young.
     -It was no tragedy ; that was, no tragedy comparable with thefire here in the Latham Chapel in 1906.
     -Yet, I supposed, to wantonly look back like that butteredno parsnips.
@@ -1783,10 +1987,13 @@ Page 68
     -It mattered little enough, ofcourse.
     -But that sort of thing was like a mosquito about the ears, making Kreisler on his littlefiddle.
     -It distracted.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1796,7 +2003,7 @@ Page 68
 
 Page 69
 
-- Text
+-Text
     -I came out of my waking dream with temples moist and tongue most damnably dry.
     -I had tobelieve myself, for I had never previously deceived myself.
     -Yes, I cam to myself, if you mustknow, when yon same star, that’s westward from the pole, had made his course to illume thatpart of heaven where now it burns.
@@ -1810,10 +2017,13 @@ Page 69
     -It was ghastly.
     -I had seen every minute of it.
     -I had seen a poor old mandone slowly to death before my eyes.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1823,7 +2033,7 @@ Page 69
 
 Page 70
 
-- Text
+-Text
     -It flashed through my mind that the place between Eros and the Queen’s Hall had horriblychanged since Orpen painted it in 1912, also that even if I took the warnings of the Ming and gotthere instantaneously, my modest Munich would have to bracket, at my expense, with islandsmore correctly known as Efate.
     -BNut after all I was not going.
     -Rather I intended to finish what Ihad begun.
@@ -1833,10 +2043,13 @@ Page 70
     -And if so, what worst could I do?
     -Or would he come to me and cringe for silence, relying on ourold association, when he had babbled at me knee, the arthritic one, that surely the cabbagebutterflies were fragments of a poem God had written and, as being too good for us, torn up?
     -Orwould he simply try to do me in?
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1846,7 +2059,7 @@ Page 70
 
 Page 71
 
-- Text
+-Text
     -But next day that religious fellow’s head drapery, if I might thus unscientifically express myself,showed signs, it seemed to me, after that initial success, of failing.
     -I would give it till midnight.
     -Do not misunderstand me.
@@ -1859,10 +2072,13 @@ Page 71
     -Henry, before our tea of anchovy toast and various hot dishes(I was never a stinter) riotously displayed himself all over me.
     -He hit me once full in the eye, andI remembered, I could not help remembering, Elsie’s difficulty when the young coastguard hadtried to prove to her his direct descent from Herebald the Drake.
     -“I will,” she quoted, “expressmy duty in his eye.”
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1872,7 +2088,7 @@ Page 71
 
 Page 72
 
-- Text
+-Text
     -Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant to sit downand to really find myself alone at last.
     -Those emotional times were trying to us all.
     -I felt that mylips were paler than I liked ; but a touch of Pasquier’s claret soon put me right.
@@ -1883,10 +2099,13 @@ Page 72
     -And afterwards the plot.
     -The complete novel length looked better.
     -It was called SavageConqueror, and I liked that.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1896,7 +2115,7 @@ Page 72
 
 Page 73
 
-- Text
+-Text
     -All the artist in me flared up.
     -After all, my given name was world-famous as the inherited one ofa bold, subtle and delightful painter.
     -I was, perhaps, unreasonably proud of that ; took a sort ofproprietary interest in “The Mumpers.” Why not?
@@ -1907,10 +2126,13 @@ Page 73
     -I rather relished my sandwich.
     -But food and drink were so bad for the stuff.
     -I remembered the place of my initiation behind the old Port at Marseille, the furtive plush, thelittle airless secret rooms hung round with
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1920,7 +2142,7 @@ Page 73
 
 Page 74
 
-- Text
+-Text
     -photographs of young and laughing athletes, lads who had profited and gone on, and ringingwith those words of the Head, as we called him, that one by one the touch of life has turned totruth.
     -But again I was distracted.
     -“Will anyone know about them?” that husky miracle of a voicewas asking, and I thought, not for the first time, that it would have caresses for all, a goldenimpartiality.
@@ -1931,10 +2153,13 @@ Page 74
     -“There is no danger of that,” the old man said, “I bought them secretly in Leningradfrom a little humpbacked fellow, a double-faced Quasimodo of the Ogpu.” This was difficultenough to reconcile with his Manchester speech on sane mediocrity.
     -“From the secret police?”The words rang like tense half-crowns dropped upon marble.
     -“Goodness gracious!” “But it soseldom is,” came the wise old reply.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1944,7 +2169,7 @@ Page 74
 
 Page 75
 
-- Text
+-Text
     -I saw to it that I should be for a moment alone among the marigolds.
     -Thinking kindly of thosetwo other flowers, which I felt almost certain now would win me the girl I felt I could love, Iexulted.
     -Dear old Gerard, he said it was called Calendula as it is to be seene to flower in thecalends of almost everie month.
@@ -1954,10 +2179,13 @@ Page 75
     -And yet I was not among those who attempt, ek parergou, to confound ephphatha with epeapteroenta.
     -You would have noticed my oriental preference when I smoke, and would not havebeen surprised that my Indian tobacco, after a scant four-and-twenty hours, was doing excellentwork.
     -It seemed almost certain that the blight would be destroyed : the blight on the May, or onthe delight that is as wide-eyed as a marigold.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1967,7 +2195,7 @@ Page 75
 
 Page 76
 
-- Text
+-Text
     -Looking over at the sly sideways smile which seemed to fill all the foreground opposite me, Icould not help recalling old Lord Pentarry and his minion.
     -“Tools must be tooled in the deQuincey sense,” he had said, as he stood wiping the billhook on his smalls, over the welter thathad once been so incomparable a lieutenant.
     -I felt I could not do less.
@@ -1980,10 +2208,13 @@ Page 76
     -Those little golden escapes, those logical thoughts,came on me like stars upon some gloomy grove, as Henry said.
     -And then arrived the blindingrealisation that if I did not do the thing myself---and I am not that type---I would be merelyrobbing a whirlwind to reap a scorpion.
     -I would have to think it over.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -1993,7 +2224,7 @@ Page 76
 
 Page 77
 
-- Text
+-Text
     -Compact, they call it ; but when I used it, I was feeling anything but so.
     -Don’t think mesqueamish ; it was my first.
     -The last little contact with the bony ankles, so warm and so soon, ifNature’s great force were to do its work, to be so cold, had touched me, I confess it.
@@ -2007,10 +2238,13 @@ Page 77
     -That day’s killing of Perceval, and in so public aplace, seemed to me unwarrantable.
     -But I had never been strong on politics.
     -For the other, myown, though it was understandable, there was perhaps no utter warrant.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2020,7 +2254,7 @@ Page 77
 
 Page 78
 
-- Text
+-Text
     -Then there disappeared the last rose flivers of the Prussian beast.
     -He had died to stay thismimic artistry, and had not had an inkling of it.
     -The lips were wiped clean.
@@ -2032,10 +2266,13 @@ Page 78
     -But this memorial of,as I thought, a soon to be dead woman’s silly wishes, now cleverly guided a little, by a strangerif falser hand, was even more so.
     -We that did nothing study but the way to love each other, withwhich thoughts the day rose with delight to us and with them set, must, as Henry said, learn thehateful art, how to forget.
     -Yes, I would have to learn that.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2045,7 +2282,7 @@ Page 78
 
 Page 79
 
-- Text
+-Text
     -It was that day my friend Sandy told me he was sure he wouldn’t sleep all night.
     -There was, ofcourse, a difference between us.
     -I couldn’t get all worked up like that.
@@ -2058,10 +2295,13 @@ Page 79
     -But I had come to the conclusion that I loathed her ; she kept colouring up.
     -I understoodwhy he had once said to me about something being as flush as May.
     -Also she wore her hair in acluster of little sly curls, a thing which in our family emphatically was not done.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2071,7 +2311,7 @@ Page 79
 
 Page 80
 
-- Text
+-Text
     -Hospitality, when I came to consider it, was indeed a funny thing.
     -I wanted to do my best for thishopeful newcomer.
     -My cellar, my library, my curious collection of bottled worms ; all should be athis disposition.
@@ -2087,10 +2327,13 @@ Page 80
     -Fleming’s tincture might, andindeed has been, mistaken for this.
     -He drank my health.
     -He tasted love with half his mind, norever drank the inviolate spring where nighest heaven.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2100,7 +2343,7 @@ Page 80
 
 Page 81
 
-- Text
+-Text
     -The victim, for that I must now reluctantly call him, blocked all the sweet air from the window.
     -Heput out his hand and asked if death were so unlike sleep caught this way.
     -Sed he.
@@ -2119,10 +2362,13 @@ Page 81
     -Band, Speckled.
     -No, I could make nothingof that.
     -But, thank goodness, I was no detective.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2132,7 +2378,7 @@ Page 81
 
 Page 82
 
-- Text
+-Text
     -I forgot why I was sitting and staring at the table.
     -I felt battered.
     -What could the batter be?
@@ -2147,10 +2393,13 @@ Page 82
     -You might have thought itstrange for me to say these things, but you never knew Henry.
     -Whether as a human mistake orone o’ the brand o’ Cain, as the Poet Laureate says---and he served in both capacities---heknew his job.
     -I felt as if great asses of mice were pressing down on my head, with all the coldweight of my certainty.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2160,7 +2409,7 @@ Page 82
 
 Page 83
 
-- Text
+-Text
     -A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a round of all ofus.
     -But she hurried away perforce without gaining her point, leaving me with an inexpensivememory of countryside flowers.
     -Our own and other countries : ironic daffodils, irises of thestream, young pert bluebells, the foreign hedge-rose and carnation.
@@ -2173,10 +2422,13 @@ Page 83
     -The hoarse newsboys with their shouting ofthe late night final, as of accomplished mal de mer, disturbed me a little.
     -Would there be anynews?
     -She enquired faintly what he meant by that stuff about good news from Ghent.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2186,7 +2438,7 @@ Page 83
 
 Page 84
 
-- Text
+-Text
     -I wish she would tell me more.
     -I wish she would give me some hint as to why the deceasedwished us to know each other.
     -Sitting here, stung by those wild gold waspish eyes, I wonderterribly.
@@ -2203,10 +2455,13 @@ Page 84
     -Off went his arm to-day.
     -Yes, what would I feel like?
     -Sheis delightful.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2216,7 +2471,7 @@ Page 84
 
 Page 85
 
-- Text
+-Text
     -I was true to time.
     -I had, it occurred to me, been something of an automaton.
     -But wasn’t Ithrusting my head, when bent on such a business in this street, into the twin mouths of twolions, of Mycroft’s brother and of the pale but multitudinous Blake?
@@ -2232,10 +2487,13 @@ Page 85
     -I put Henry’s keenness a few inches below the withered salt-cellar.
     -I drove Henry home, and left him.
     -A dog barked and mourned from the next room, but I couldhave all the stuff I wanted for ever.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2245,7 +2503,7 @@ Page 85
 
 Page 86
 
-- Text
+-Text
     -Next day I let Caroline Jasmine---what a name!---do her very damnedest for my guest.
     -But I wasdoubtful of her influence all the while.
     -What a man!
@@ -2261,10 +2519,13 @@ Page 86
     -Perishthe thought, and the fellow.
     -Also my ravishing correspondent would have told me.
     -I found myselfthinking with a strange weakness of the poet’s lines :       But we have all bent low and low and kissed the              quiet feet
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2274,7 +2535,7 @@ Page 86
 
 Page 87
 
-- Text
+-Text
     -Of the old bold mate of Henry Morgan.
     -My guest has, I think, a Byzantine beauty, as of a golden snake.
     -Is she, or is she not, a little paleabout the Gills?
@@ -2286,10 +2547,13 @@ Page 87
     -It is funny, it is ratherfearful, to feel a wet skeleton hand putting hers into mine.
     -Why, I wonder?
     -Not that it can reallybe skeleton yet ; it must be---worse : a loathsome mass of detestable putrescence.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2299,7 +2563,7 @@ Page 87
 
 Page 88
 
-- Text
+-Text
     -I always liked to listen to him.
     -It was St. Wigbert’s day, I was told, and Augustus, I remembered,was a chubby lad.
     -I was getting quite clever in that way.
@@ -2317,10 +2581,13 @@ Page 88
     -I had.
     -But each, too, began to say things about how fewthe other had done so late in the year.
     -I don’t know why, but I felt that mice were dancing on mylittle slab.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2330,7 +2597,7 @@ Page 88
 
 Page 89
 
-- Text
+-Text
     -The ancient had then sat down among the heather to a great dish of brown and swimmingcollops.
     -Personally, as far as my stomach went, I could not love the deer so much, loved I not ona moor, with concomitant Spey Royal to drown the taste.
     -Nor was that likely to happen in thiscase.
@@ -2344,10 +2611,13 @@ Page 89
     -Well, signatures were his business.
     -The gold was being cleared out of thelight ; the remaining silver was, how shall I say?, unsatisfactory.
     -I also had flaunted thepanache---it lay at that moment beneath my lips---to the public without ever having beensatisfied with it.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2357,7 +2627,7 @@ Page 89
 
 Page 90
 
-- Text
+-Text
     -While my mind had been thus far away, a grotesque looking old gentleman had fluttered like abat to the seat between us, and now deposited, with the bitter sang-froid of the unworldly, adilapidated deer-stalker of pinkish tweed upon the glacial parquet.
     -I thought I knew the type :learned in a macabre way, even distinguished ; one who was rich enough to remain unspottedby convention, and who yet reserved a thousand chariots in full force, gold of course, for theundoing of a materialistic world.
     -Gathering a fungus in the other golden ruin before me, Iconsidered within myself what such an obvious hermit could be doing among the brilliant lightsof this notoriously soigné place.
@@ -2369,10 +2639,13 @@ Page 90
     -Was all my endeavour tobe in the future?
     -Would I never do anything in the present?
     -It all seemed so fatuous.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2382,7 +2655,7 @@ Page 90
 
 Page 91
 
-- Text
+-Text
     -In my youth I had been worried that I bore the same name as Newbolt’s admiral andShakespeare’s sergeant, and it had irked me when, in my student days, I had been known asthe Smiler with the Knife.
     -Afterwards I found it better in practice to capitalise my third letter.
     -TheBlue Rocket was still going down next day ; in fact, I knew too much to let it go up.
@@ -2394,10 +2667,13 @@ Page 91
     -The eye in which, just before its fellow was shot out by the Chicago sleuth, he hadasked that suave detective if he, the detective, could see any green.
     -It looked, though, as ifHenry had been playing about with this exhibit.
     -I would have to take steps.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2407,7 +2683,7 @@ Page 91
 
 Page 92
 
-- Text
+-Text
     -My earlier days had been so different.
     -There hadn’t been the comfort, the sense of indulgence,or of adventure, that there was now.
     -I bit into the last of the oysters and someone carried awaythe shells.
@@ -2422,10 +2698,13 @@ Page 92
     -I felt perhaps sillily readyfor some sort of cardiac revelation, or revaluation at least.
     -Yet now my heart leaps, O beloved!
     -God’s child with his dew       On they gracious gold hair, and those lilies still              living and blue
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2435,16 +2714,19 @@ Page 92
 
 Page 93
 
-- Text
+-Text
     -And pipes for closets all over, and cutting the frames              too light,       But M’Cullough he died in the sixties, and---well,              I’m dying to-night. . . .Had not the author of Wails of a Tayside Inn said of them that they were the living poems andthat all the rest were dead?
     -Had not the winger of Wimpole Street said that they were binding uptheir hearts away from breaking with a cerement of the grave?
     -Anyway their hour had come andwas now over ; just but emphatically over, and I could not be sorry.
     -I knew, after arguing it outfrom one side of my aching head to another---those little Bunny and Perry, Pro and Con, hadbeen at it hammer and tongs on the centre court between the two lobes of my brain---that if Ihad no tangible proof against the erstwhile cleanser of my old headgear, I had merely athistledown of semi-conviction against the other.
     -That his thought process, when I tapped itswire, had been calling her a Cambridge week, helped me, surely, not at all.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2454,7 +2736,7 @@ Page 93
 
 Page 94
 
-- Text
+-Text
     -Naturally I looked up.
     -And I tell you I found it awe-inspiring enough to actually see my own namethrough the window, printed there in great letters for the gaze of all and sundry.
     -With a blush Iconcentrated again on Henry, and asked myself if his recent activities did or did not constitutethe darbs.
@@ -2467,10 +2749,13 @@ Page 94
     -Alittle he and she bounced in, half settling on my side like sparrows, and devirginating a bag ofgum prunes as they bounced.
     -How could I concentrate?
     -And Henry was waiting for me.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2480,7 +2765,7 @@ Page 94
 
 Page 95
 
-- Text
+-Text
     -I knew, of course, that if I got there in five minutes I would have double the time for my by nomeans suburban hops at the Café Royal, without insulting it and myself with John Montagu’sarrangement for an uninterrupted session at the gaming table.
     -I felt so much at one with HolyMr. Herbert.
     -Or Mr. Haddock did he call himself?
@@ -2491,10 +2776,13 @@ Page 95
     -Leda and Hebe, I gave my swan adrink, and then drew a sheet of notepaper towards me.
     -I took up my pen, after having laid itdown again and again, and, seeing that the ink was sufficient, plunged in.
     -In clear terse phrase,utterly neglecting my contact with his infancy, I told him all, hour by hour, day by day, from theinception to the culmination of the horrid act.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2504,7 +2792,7 @@ Page 95
 
 Page 96
 
-- Text
+-Text
     -Now I think I will try a cup of what they insolently call Golden Tips, a find young Tippy Tea.
     -Andthen they say specifically No Tips.
     -It is very disheartening.
@@ -2518,10 +2806,13 @@ Page 96
     -How it all comes back.
     -The whole circumstances of this meeting are somysterious.
     -It gars me grue, if I may be permitted the expression.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2531,7 +2822,7 @@ Page 96
 
 Page 97
 
-- Text
+-Text
     -To have slept and to wake right up surrounded by an atmosphere in which Bunny and Perrywent at it hammer and tongs, seemed almost sacrilege.
     -That was the day when I was going todo a thing I had never done before.
     -I looked at Henry, and felt a little sick.
@@ -2546,10 +2837,13 @@ Page 97
     -I had, infact, never heard of John Ayrton then.
     -Oeuvre ton ame et ton oreille au son de ma mandoline : pour toi j’ai fait, pour toi, cette chansoncruelle et caline.
     -But I wasn’t thinking of John Ayrton.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2559,7 +2853,7 @@ Page 97
 
 Page 98
 
-- Text
+-Text
     -He stood and looked down at me ; but I was not to be hurried.
     -The money changed handsslowly ; for I wished to be able to describe him.
     -He seems to have had a great confidence in theopinion of his physicians.
@@ -2578,10 +2872,13 @@ Page 98
     -May be.
     -May be not.
     -Sunset was alreadyreddish-purple above the Quarry hills, like a bruise on the breast of the evening.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2591,7 +2888,7 @@ Page 98
 
 Page 99
 
-- Text
+-Text
     -And she wore a mauve love-knot on her breast, and the ends were unequal.
     -He said he’d putthat right, but he couldn't find the silly old jossers, as Jasmine might so easily have called them.
     -I was old enough to remember her ; she wasn’t the one I’d killed.
@@ -2602,10 +2899,13 @@ Page 99
     -Of course I ought to have beenmore careful of such a trifle.
     -Suddenly I felt that I had put my foot in it.
     -Still I had three more left.
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2615,7 +2915,7 @@ Page 99
 
 Page 100
 
-- Text
+-Text
     -I dimly guess why the old dead so wanted this.
     -I had worked for him, Henry had worked for him.
     -If I could get up, as, believe me, I cannot, I would have a thing to say to her.
@@ -2634,10 +2934,13 @@ Page 100
     -Henry, I feel it, is for the first and last time getting out ofhand.
     -Good-bye, Henry.
     -He drops awa. . . . .
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
@@ -2647,12 +2950,15 @@ Page 100
 
 Page 101
 
-- Text
+-Text
     -
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 

@@ -15,12 +15,15 @@ class Page:
 
 Page {self.number}
 
-- Text
+-Text
     -{sentence_joiner.join(self.sentences)}
-- Metadata
-    - Activity summary
-    - Place
-    - Other
+-Metadata
+    -Activity summary
+    -Place
+    -Narrator
+    -People present
+    -People mentioned
+    -Other
 
 
 
