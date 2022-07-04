@@ -4,11 +4,11 @@
 
 There are a PDF, EPUB, and slideshow there. All seem to be a of a different edition of the book that has some typos that are absent in Gina's print edition
 
-I added the PDF and EPUB to the data folder.
+I added these to the `data` folder.
 
 ## Parsing to easily-machine-readable format
 
-I quickly tried some parsing options for both PDF and EPUB and settled on [Convertio](https://convertio.co/download/fdeded8c02945500e24ea1df7b7dfc81906647/), converting PDF to txt.
+Actually the best thing is just downloading the slideshow as plain text
 
 The resulting text is in the data folder.
 

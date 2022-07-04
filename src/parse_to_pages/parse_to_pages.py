@@ -1,5 +1,6 @@
 from asyncore import read
 from dataclasses import dataclass
+import re
 import nltk
 
 nltk.download('punkt')
@@ -32,9 +33,9 @@ Page {self.number}
 
 """
 
-def parse_text_to_pages(text: str) -> list[Page]:
-    raw_pages = text.split("")
+def parse_text_to_pages(text: str, page_separator) -> list[Page]:
+    raw_pages = re.split(page_separator, text)
     pages = [[sentence.strip().replace("\n", "") for sentence in nltk.sent_tokenize(raw_page)] for raw_page in raw_pages]
-    return [Page(i, page) for i, page in enumerate(pages)]
+    return [Page(i+1, page) for i, page in enumerate(pages)]
     
 
